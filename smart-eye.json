@@ -1,0 +1,24 @@
+{
+  "update_interval": 60,
+  "override_app_messages": true,
+  "append_app_text": true,
+  "messages": [
+    [
+      "Рада видеть тебя %%APP_TEXT%%. Как дела?",
+      "Привет!",
+      "Урааааа, %%APP_TEXT%% пришел!"
+    ],
+    [
+      "%%APP_TEXT%%, а я тебя уже видела сегодня",
+      "О, снова %%APP_TEXT%%. Класс!",
+      "Мы уже почти стали друзьями. Да %%APP_TEXT%%?"
+    ],
+    [
+      "Зачастил ты ко мне, %%APP_TEXT%%. Но я все равно рада",
+      "%%APP_TEXT%%, а почему ты со мной не разговариваешь?"
+    ]
+  ],
+  "personal_messages": {
+    "Konstantin Chernuho": "Спасибо, что научил меня русскому, %%APP_TEXT%%"
+  }
+}
